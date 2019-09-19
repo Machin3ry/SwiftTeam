@@ -3,7 +3,7 @@ Swift team repository for all projects going to be done during HNG internship.
 
 This contains all used in the design, building and authentication of the site built by our team. This site contains login and signup pages. 
 
-<a href="https://www.gjengineer.com/SWIFT-TEAM-LOGIN-SIGNUP/index.php">CLICK HERE</a> to view site.
+<a href="https://www.gjengineer.com/SWIFT-TEAM-LOGIN-SIGNUP/">CLICK HERE</a> to view site.
 
 To see tutorial on how this was made <a href="https://lucid.blog/samsonnnamdi88/post/a-tutorial-on-how-the-login-and-signup-pages-were-built-by-swift-team-69d">CLICK HERE</a>
 
