@@ -5,6 +5,7 @@ This contains all used in the design, building and authentication of the site bu
 
 <a href="https://www.gjengineer.com/SWIFT-TEAM-LOGIN-SIGNUP/index.php">CLICK HERE</a> to view site.
 
+To see tutorial on how this was made <a href="https://lucid.blog/samsonnnamdi88/post/a-tutorial-on-how-the-login-and-signup-pages-were-built-by-swift-team-69d">CLICK HERE</a>
 
 For PHP heads willing to test
 
